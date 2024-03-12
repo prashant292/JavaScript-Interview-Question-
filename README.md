@@ -1,7 +1,7 @@
 ---
 title: "Tricky Javascript Code Snippets Asked in the Interview (es6/es7/es8/es9)"
 description: "Prepare for your next 2024 JavaScript interview with these tricky code snippets. Covering ES6/ES7/ES8/ES9 syntax and features, this article provides examples and explanations to help you ace your interview."
-githubPath: "[https://github.com/Vasu7389/JavaScript-Interview-Questions](https://github.com/prashant292/JavaScript-Interview-Question-)"
+githubPath: "(https://github.com/prashant292/JavaScript-Interview-Question-)"
 ---
 
 <span style=" font-size: 1rem; border-bottom: 1px solid grey;"> Updated Mar 12, 2024 </span>
